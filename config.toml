@@ -1,0 +1,98 @@
+# Settings
+baseurl = "http://tageslichter.eu/"
+languageCode = "de"
+title = "tageslichter"
+theme = "phugo"
+googleAnalytics = "UA-124375609-1"
+
+[params]
+
+    # Meta
+    description = "Photographie seit 2010"
+    author = "Johannes Friedl"
+    keywords = "tageslichter, photographie, photography, fotografie"
+    
+    # Headerbar links
+    # Do not put here too many links,
+    # it will break mobile appearance
+
+    [[params.header.links]]
+    name = "Über mich"
+    url = "#footer"
+    icon = "fa-info-circle"
+    
+    # Footer panel
+    
+    [params.footer.paragraph]
+    headline = "Über mich"
+    text = "Ausgebildet als Archäologe und heute tätig als Datenanalyst liebe ich die Photographie als schöpferische Tätigkeit, die selbst bei einer analytischen Herangehensweise ans Bildermachen sehr intuitiv bleibt. Ich lebe mit meiner Frau und meinen beiden Kindern in München."
+    
+    [params.footer.social]
+    headline = "Follow me"
+
+    [[params.footer.social.links]]
+    label = "Twitter"
+    url = "#"
+    icon = "fa-twitter"
+
+    [[params.footer.social.links]]
+    label = "Facebook"
+    url = "#"
+    icon = "fa-facebook"
+
+    [[params.footer.social.links]]
+    label = "Instagram"
+    url = "#"
+    icon = "fa-instagram"
+
+    [[params.footer.social.links]]
+    label = "Github"
+    url = "#"
+    icon = "fa-github"
+
+    [[params.footer.social.links]]
+    label = "Dribbble"
+    url = "#"
+    icon = "fa-dribbble"
+
+    [[params.footer.social.links]]
+    label = "LinkedIn"
+    url = "#"
+    icon = "fa-linkedin"
+    
+    # Contact form
+    
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'realEmail' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    
+    [params.footer.contact]
+    realEmail = "mail@tageslichter.eu"
+    headline = "Kontakt"
+    buttonText = "Senden"
+    resetText = "Zurücksetzen"
+    
+    # 'warning' defines error messages for invalid inputs
+    [params.footer.contact.name]
+    text = "Name *"
+    warning = "Bitte geben Sie Ihren Namen an."
+
+    [params.footer.contact.email]
+    text = "Email *"
+    warning = "Bitte geben Sie Ihre Emailadresse an."
+
+    [params.footer.contact.message]
+    text = "Nachricht *"
+    warning = "Sie haben vergessen, eine Nachricht zu hinterlassen."
+    
+    # Copyright
+    [params.footer.copyright]
+    name = "Johannes Friedl"

@@ -1,0 +1,7 @@
+<article class="thumb">
+	<a href="{{ .Get "full" }}" class="image"><img src="{{ .Get "thumb" }}" alt="{{ .Get "alt" }}" /></a>
+	<h2>{{ .Get "phototitle" }}</h2>
+	<p>{{ .Get "description" | markdownify }}
+	{{ if ne (.Get "date") ""}}({{ .Get "date" }}){{ end }}
+	</p>
+</article>

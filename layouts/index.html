@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+{{ partial "lang.html" . }}
+<head>
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+{{ partial "head.html" . }}
+<head>
+<body>
+        
+	{{ partial "header.html" . }}
+
+	<div class="title-home">
+		<h1>{{ .Site.Title }}</h1>
+		{{ .Site.Params.description }}
+	</div>
+
+	<div id="teaser">
+	<a id="teaserlink" href="collection">
+		<div id="collectiontitle">
+    		<h2>collections</h2>
+    	</div>
+    </a>
+    </div>
+
+    {{ partial "recent.html" . }}
+
+    {{ partial "footer.html" . }}
+
+{{ partial "scripts.html" . }}
+
+</body>
+</html>

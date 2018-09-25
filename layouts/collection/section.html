@@ -1,0 +1,18 @@
+{{ define "title" }}
+{{ .Title }} - {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+	<div class="title-home">
+		<h1>{{ .Title }}</h1>
+		{{ .Params.daterange }}
+	</div>
+    <div id="main">
+       {{ range .Sections.ByDate.Reverse }}
+            <article class="thumb">
+                <a href="{{ .Permalink }}" class="link"><img src="{{ .Params.albumthumb }}" alt="{{ .Title }}" /></a>
+                <h2>{{ .Title }}</h2>
+            </article>
+        {{ end }}
+        {{ .Content }}
+    </div>
+{{ end }}
