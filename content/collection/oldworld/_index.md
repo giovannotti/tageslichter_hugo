@@ -3,7 +3,7 @@ title: "alte welt"
 albumthumb: "/img/norba_ins_nichts_20140915.jpg"
 date: 2014-09-28T10:33:30+02:00
 daterange: "2010 - 2014"
-draft: true
+draft: false
 ---
 
 {{< photo full="/img/chateau_rhone_valley.jpg" thumb="/img/chateau_rhone_valley.jpg" alt="" phototitle="Chateau-Innenhof" description="Rhônetal." date="Juni 2011">}}

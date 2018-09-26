@@ -3,7 +3,7 @@ title: "fahl"
 albumthumb: "/img/steinmandl_am_namafjall_20160610.jpg"
 date: 2018-09-24T07:12:03+02:00
 daterange: "2010 - 2016"
-draft: true
+draft: false
 ---
 
 {{< photo full="/img/steinmandl_am_namafjall_20160610.jpg" thumb="/img/steinmandl_am_namafjall_20160610.jpg" alt="" phototitle="Steinmandl am Námafjall" description="Island in der Nähe des Myvatn." date="Juni 2016">}}

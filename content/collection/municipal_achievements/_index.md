@@ -3,7 +3,7 @@ title: "städtische errungenschaften"
 albumthumb: /img/vergangene_ertuechtigung.jpg
 date: 2014-08-13T11:19:21+02:00
 daterange: "2010 - 2014"
-draft: true
+draft: false
 ---
 
 {{< photo full="/img/vergangene_ertuechtigung.jpg" thumb="/img/vergangene_ertuechtigung.jpg" alt="" phototitle="Vergangene Ertüchtigung" description="Statue vor Tempel in Wiener Innenstadt." date="Januar 2012">}}

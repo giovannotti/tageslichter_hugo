@@ -3,7 +3,7 @@ title: "s-w"
 albumthumb: /img/way_to_the_lonely_tree.jpg
 date: 2018-09-23T20:27:21+02:00
 daterange: "2011 - 2014"
-draft: true
+draft: false
 ---
 
 {{< photo full="/img/toilet_bw.jpg" thumb="/img/toilet_bw.jpg" alt="" phototitle="Wartesaal-Toilette" description="Öffentliche Toilette in elsässischem Dorf." date="Juni 2011">}}

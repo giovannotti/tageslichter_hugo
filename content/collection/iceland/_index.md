@@ -3,7 +3,7 @@ title: "island"
 albumthumb: "/img/iceland/mondlandung_auf_dem_namafjall_20160610.jpg"
 date: 2018-09-24T8:26:12+02:00
 daterange: "2016"
-draft: true
+draft: false
 ---
 
 {{< photo full="/img/iceland/farbenspiel_bei_varmahlid_20160609.jpg" thumb="/img/iceland/farbenspiel_bei_varmahlid_20160609.jpg" alt="" phototitle="Farbenspiel bei Varmahlíð" description="Auf der Ringstraße in Island." date="Juni 2016">}}

@@ -3,7 +3,7 @@ title: "kirch † turm"
 albumthumb: /img/trinitas_unfold.jpg
 date: 2014-06-09T19:27:21+02:00
 daterange: "2011 - 2014"
-draft: true
+draft: false
 ---
 
 {{< photo full="/img/spirit_holy_and_wireless.jpg" thumb="/img/spirit_holy_and_wireless.jpg" alt="" phototitle="Holy and wireless" description="Berliner Dom und Fernsehturm in roter Abendsonne." date="März 2011">}}

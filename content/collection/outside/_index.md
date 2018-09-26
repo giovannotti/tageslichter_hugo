@@ -3,7 +3,7 @@ title: "da draußen"
 albumthumb: /img/tragus_green_white.jpg
 date: 2015-09-28T13:42:21+02:00
 daterange: "2010 - 2015"
-draft: true
+draft: false
 ---
 
 {{< photo full="/img/grotto_alps.jpg" thumb="/img/grotto_alps.jpg" alt="" phototitle="Grotte in den Voralpen" description="" date="April 2011">}}

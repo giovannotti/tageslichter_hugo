@@ -3,7 +3,7 @@ title: "interior"
 albumthumb: /img/royal_end.jpg
 date: 2018-09-24T13:19:00+02:00
 daterange: "2010 - 2018"
-draft: true
+draft: false
 ---
 
 {{< photo full="/img/royal_end.jpg" thumb="/img/royal_end.jpg" alt="" phototitle="Kaiserlicher Sitz" description="Raumflucht im Schönbrunner Schloss des österreichischen Kaisers in Wien." date="Juli 2012">}}

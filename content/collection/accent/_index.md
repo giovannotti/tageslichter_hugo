@@ -3,7 +3,7 @@ title: "akzent"
 albumthumb: "/img/schatz_lass_uns_in_venedig_heiraten_20140902.jpg"
 date: 2018-09-24T13:18:10+02:00
 daterange: "2011 - 2018"
-draft: true
+draft: false
 ---
 
 {{< photo full="/img/schatz_lass_uns_in_venedig_heiraten_20140902.jpg" thumb="/img/schatz_lass_uns_in_venedig_heiraten_20140902.jpg" alt="" phototitle="Schatz, lass uns in Venedig heiraten" description="" date="August 2014">}}
