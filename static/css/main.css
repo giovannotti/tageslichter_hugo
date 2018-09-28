@@ -122,11 +122,13 @@ body.loading #header { -moz-transform: translateY(4em); -webkit-transform: trans
 #header nav > ul > li a:hover { color: #a0a0a1 !important; }
 #header nav > ul > li a.active { background-color: whitesmoke; }
 
-@media screen and (max-width: 736px) { body { padding: 4em 0 0 0; }
-  #header { -moz-transform: translateY(0); -webkit-transform: translateY(0); -ms-transform: translateY(0); transform: translateY(0); bottom: auto; height: 4em; padding: 0 1em; top: 0; }
-  body.loading #header { -moz-transform: translateY(-3.4em); -webkit-transform: translateY(-3.4em); -ms-transform: translateY(-3.4em); transform: translateY(-3.4em); }
-  #header h1 { font-size: 0.9em; }
-  #header nav > ul > li a { font-size: 0.9em; padding: 0 1.15em; } }
+@media screen and (max-width: 736px) { 
+	body { padding: 4em 0 0 0; }
+  	#header { -moz-transform: translateY(0); -webkit-transform: translateY(0); -ms-transform: translateY(0); transform: translateY(0); bottom: auto; height: 4em; padding: 0 1em; top: 0; }
+  	body.loading #header { -moz-transform: translateY(-3.4em); -webkit-transform: translateY(-3.4em); -ms-transform: translateY(-3.4em); transform: translateY(-3.4em); }
+  	#header h1 { font-size: 0.9em; }
+  	#header nav > ul > li a { font-size: 0.9em; padding: 0 1.15em; } 
+}
 
 .title-home {
 	text-align: center;
@@ -181,6 +183,7 @@ body.loading #header { -moz-transform: translateY(4em); -webkit-transform: trans
 #recent {
 	margin: 0pt 50pt;
 }
+
 #recent .thumb { 
 /* 	-moz-transition-delay: 2.075s; 
 	-webkit-transition-delay: 2.075s; 
@@ -197,3 +200,6 @@ body.loading #header { -moz-transform: translateY(4em); -webkit-transform: trans
   	#recent #main .thumb:nth-child(2) { -moz-transition-delay: 0.8s; -webkit-transition-delay: 0.8s; -ms-transition-delay: 0.8s; transition-delay: 0.8s; }
   	#recent #main .thumb:nth-child(3) { -moz-transition-delay: 0.95s; -webkit-transition-delay: 0.95s; -ms-transition-delay: 0.95s; transition-delay: 0.95s; } }
 
+@media screen and (max-width: 320px) {
+	#recent { margin:  0pt 10pt; }
+}
