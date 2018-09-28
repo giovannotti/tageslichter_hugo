@@ -58,8 +58,6 @@ draft: false
 
 {{< photo full="/img/iceland/nach_dem_getoese_20160612.jpg" thumb="/img/iceland/nach_dem_getoese_20160612.jpg" alt="" phototitle="Nach dem Getöse" description="Schlucht des Jökulsá á Fjöllum am Dettifoss." date="Juni 2016">}}
 
-{{< photo full="/img/iceland/nach_dem_getoese_20160612.jpg" thumb="/img/iceland/nach_dem_getoese_20160612.jpg" alt="" phototitle="Nach dem Getöse" description="Schlucht des Jökulsá á Fjöllum am Dettifoss." date="Juni 2016">}}
-
 {{< photo full="/img/iceland/im_sueden_islands_20160614.jpg" thumb="/img/iceland/im_sueden_islands_20160614.jpg" alt="" phototitle="Im Süden Islands" description="Küste zwischen Djúpivogur und Höfn." date="Juni 2016">}}
 
 {{< photo full="/img/iceland/badeurlaub_in_island_20160614.jpg" thumb="/img/iceland/badeurlaub_in_island_20160614.jpg" alt="" phototitle="Badeurlaub in Island" description="Entenkolonie lässt es sich irgendwo zwischen Djúpivogur und Höfn gut gehen." date="Juni 2016">}}
@@ -89,8 +87,3 @@ draft: false
 {{< photo full="/img/iceland/und_nochmal_lupinen_20160615.jpg" thumb="/img/iceland/und_nochmal_lupinen_20160615.jpg" alt="" phototitle="Und weil sie doch so schön sind" description="Einsame Lupinchen am ständig spuckenden Geysir in Haukadalur." date="Juni 2016">}}
 
 {{< photo full="/img/iceland/babykratersee_20160615.jpg" thumb="/img/iceland/babykratersee_20160615.jpg" alt="" phototitle="Babykratersee" description="Haukadalur in Island." date="Juni 2016">}}
-
-
-
-
-
