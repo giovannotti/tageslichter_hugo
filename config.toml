@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://tageslichter.eu/"
+baseurl = "https://tageslichter.eu/"
 languageCode = "de"
 title = "tageslichter"
 theme = "phugo"
