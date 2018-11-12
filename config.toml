@@ -3,7 +3,6 @@ baseurl = "https://tageslichter.eu/"
 languageCode = "de"
 title = "Tageslichter"
 theme = "phugo"
-googleAnalytics = "UA-124375609-1"
 
 [params]
 
