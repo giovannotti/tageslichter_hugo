@@ -1,7 +1,7 @@
 # Settings
 baseurl = "https://tageslichter.eu/"
 languageCode = "de"
-title = "tageslichter"
+title = "Tageslichter"
 theme = "phugo"
 googleAnalytics = "UA-124375609-1"
 
@@ -10,7 +10,7 @@ googleAnalytics = "UA-124375609-1"
     # Meta
     description = "Photographie seit 2010"
     author = "Johannes Friedl"
-    keywords = "tageslichter, photographie, photography, fotografie"
+    keywords = "Johannes Friedl, Tageslichter, Photographie, photography, Fotografie"
     
     # Headerbar links
     # Do not put here too many links,
