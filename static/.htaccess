@@ -1,8 +1,8 @@
 RewriteEngine On
 
 # Redirect always to www
-RewriteCond %{HTTP_HOST} ^mustermann\.de$
-RewriteRule ^(.*)$ http://www.mustermann.de/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^tageslichter\.eu$
+RewriteRule ^(.*)$ https://www.tageslichter.eu/$1 [R=301,L]
 
 # Redirect http to https
 RewriteCond %{SERVER_PORT} !^443$
