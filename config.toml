@@ -1,6 +1,6 @@
 # Settings
 baseurl = "https://tageslichter.eu/"
-languageCode = "de"
+languageCode = "de-de"
 title = "Tageslichter eingefangen in der Münchner Photographischen Lichtkammer"
 theme = "phugo"
 
