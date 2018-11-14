@@ -1,5 +1,6 @@
 ---
-title: "interior"
+title: "Interior"
+description: "Innenräume: museal, konstruiert, in Flucht oder Linie"
 albumthumb: /img/royal_end.jpg
 date: 2018-09-24T13:19:00+02:00
 daterange: "2010 - 2018"

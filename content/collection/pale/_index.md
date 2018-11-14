@@ -1,5 +1,6 @@
 ---
-title: "fahl"
+title: "Fahl"
+description: "Die Ernte an Helios' lethargischen oder vielleicht des Photographen phlegmatischen Tagen"
 albumthumb: "/img/steinmandl_am_namafjall_20160610.jpg"
 date: 2018-09-24T07:12:03+02:00
 daterange: "2010 - 2016"
@@ -21,6 +22,8 @@ draft: false
 {{< photo full="/img/gondola_art_and_plattenbau.jpg" thumb="/thumbs/gondola_art_and_plattenbau.jpg" alt="" phototitle="Gondelkunst und Plattenbau" description="Münchens Venedig am nördlichsten Rand der Stadt." date="April 2011">}}
 
 {{< photo full="/img/kerkyra_port_ship.jpg" thumb="/thumbs/kerkyra_port_ship.jpg" alt="" phototitle="Schiff vor Korfu" description="Nordgriechenland." date="Juli 2010">}}
+
+{{< photo full="/img/schatz_lass_uns_in_venedig_heiraten_20140902.jpg" thumb="/thumbs/schatz_lass_uns_in_venedig_heiraten_20140902.jpg" alt="" phototitle="Schatz, lass uns in Venedig heiraten" description="" date="August 2014">}}
 
 
 

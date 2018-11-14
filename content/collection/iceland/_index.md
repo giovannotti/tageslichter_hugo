@@ -1,5 +1,6 @@
 ---
-title: "island"
+title: "Island"
+description: "Farben, Formen und Kontraste, der Isländischen Natur abgerungen"
 albumthumb: "/img/iceland/mondlandung_auf_dem_namafjall_20160610.jpg"
 date: 2018-09-24T8:26:12+02:00
 daterange: "2016"

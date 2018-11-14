@@ -1,5 +1,6 @@
 ---
-title: "städtische errungenschaften"
+title: "Städtische Errungenschaften"
+description: "Urbanes Sammelsurium ohne Hintergedanken"
 albumthumb: /img/vergangene_ertuechtigung.jpg
 date: 2014-08-13T11:19:21+02:00
 daterange: "2010 - 2014"

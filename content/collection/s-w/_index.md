@@ -1,10 +1,13 @@
 ---
-title: "s-w"
+title: "S-W"
+description: "Manches muss man der Farbe berauben, um Kolorit zu finden"
 albumthumb: /img/way_to_the_lonely_tree.jpg
-date: 2018-09-23T20:27:21+02:00
+date: 2018-11-14
 daterange: "2011 - 2014"
 draft: false
 ---
+
+{{< photo full="/img/schatz_lass_uns_in_venedig_heiraten_20140902.jpg" thumb="/thumbs/schatz_lass_uns_in_venedig_heiraten_20140902.jpg" alt="" phototitle="Schatz, lass uns in Venedig heiraten" description="" date="August 2014">}}
 
 {{< photo full="/img/toilet_bw.jpg" thumb="/thumbs/toilet_bw.jpg" alt="" phototitle="Wartesaal-Toilette" description="Öffentliche Toilette in elsässischem Dorf." date="Juni 2011">}}
 

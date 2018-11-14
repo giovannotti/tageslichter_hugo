@@ -4,7 +4,8 @@
 {{ define "main" }}
 	<div class="title-home">
 		<h1>{{ .Title }}</h1>
-		{{ .Params.daterange }}
+        <h2>{{ .Params.daterange }}</h2>
+        <h3>{{ with .Params.description }}{{ . }} {{ end }}</h3>
 	</div>
     <div id="main">
        {{ range .Sections.ByDate.Reverse }}

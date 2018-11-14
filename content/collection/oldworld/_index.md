@@ -1,5 +1,6 @@
 ---
-title: "alte welt"
+title: "Alte Welt"
+description: "Orte und Dinge lang vergangener Zeiten"
 albumthumb: "/img/norba_ins_nichts_20140915.jpg"
 date: 2014-09-28T10:33:30+02:00
 daterange: "2010 - 2014"

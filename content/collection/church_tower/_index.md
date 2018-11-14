@@ -1,5 +1,6 @@
 ---
-title: "kirch † turm"
+title: "Kirch † Turm"
+description: "Geistliches und Weltliches: Erhaben, pathetisch oder gefällig, pittoresk"
 albumthumb: /img/trinitas_unfold.jpg
 date: 2014-06-09T19:27:21+02:00
 daterange: "2011 - 2014"

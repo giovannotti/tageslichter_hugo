@@ -1,5 +1,6 @@
 ---
-title: "da draußen"
+title: "Da Draußen"
+description: "Natur aus der Warte eines Städters"
 albumthumb: /img/tragus_green_white.jpg
 date: 2015-09-28T13:42:21+02:00
 daterange: "2010 - 2015"
