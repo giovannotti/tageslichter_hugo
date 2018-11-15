@@ -1,7 +1,7 @@
 # Settings
 baseurl = "https://tageslichter.eu/"
 languageCode = "de-de"
-title = "Tageslichter ◊ Münchner Photographische Lichtkammer"
+title = "Tageslichter: Münchner Photographische Lichtkammer"
 theme = "phugo"
 
 [params]
