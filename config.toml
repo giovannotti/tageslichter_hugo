@@ -1,13 +1,13 @@
 # Settings
 baseurl = "https://tageslichter.eu/"
 languageCode = "de-de"
-title = "Tageslichter eingefangen in der Münchner Photographischen Lichtkammer"
+title = "Tageslichter ◊ Münchner Photographische Lichtkammer"
 theme = "phugo"
 
 [params]
 
     # Meta
-    description = "Photographisches Mancherlei aus München, Bayern, Deutschland und der Welt ; Behutsam mit der Kamera erhascht von Johannes Friedl"
+    description = "Photographisches Potpourri aus München, Bayern, Deutschland und der Welt. Behutsam mit der Kamera eingefangen von Johannes Friedl"
     author = "Johannes Friedl"
     keywords = "Johannes Friedl, Tageslichter, Photographie, photography, Fotografie"
     
